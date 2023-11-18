@@ -1,0 +1,40 @@
+input::placeholder{
+    font-size: 15px;
+    font-family: 900;
+}
+.getbtn{
+    background: white !important;
+    width: 40px !important;
+    height: 40px !important;
+    border-radius: 50% !important;
+    font-size: 25px;
+    font-weight: bold;
+}
+body{
+    background: linear-gradient(to right,skyblue, rgb(116, 116, 161));
+}
+.cardweather{
+    width: 350px;
+    height: 500px;
+    background: url(https://cdn.dribbble.com/users/925716/screenshots/3333720/attachments/722375/night.png);
+}
+input{
+    border: 2px solid white;
+    width: 290px !important;
+    border-radius: 10% !important;
+}
+.temprechur{
+    width: 15px !important;
+    height: 15px !important;
+    border: 3px solid white !important;
+    border-radius: 50% !important;
+    position: absolute;
+    top:0px;
+    right: 105px;
+}
+.contry{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50%;
+}
